@@ -21,4 +21,8 @@ numerical modelling in geosciences, see my
 
 # **pyVIRUS**
 
-(text)
+In this notebook sequence, we use data from the Corona pandemic to introduce:
+
+- Virus modelling with random-walk models
+- Virus modelling with coupled differential equations
+
